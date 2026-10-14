@@ -23,3 +23,4 @@ programming skills and problem-solving abilities.
 
 ### Web Development
 Learning HTML, CSS, and JavaScript to build web projects.
+Activity 4: Practiced Git branching, version control, and GitHub Pages development. 
