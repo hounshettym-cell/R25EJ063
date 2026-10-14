@@ -15,3 +15,11 @@ Interested in software development
 Goal: Build projects and contribute to open source
 Goal: Contribute to open source
 Add goal: contribute to open source
+## Projects
+
+### LeetCode Solutions
+A collection of C++ and Python solutions to improve my
+programming skills and problem-solving abilities.
+
+### Web Development
+Learning HTML, CSS, and JavaScript to build web projects.
