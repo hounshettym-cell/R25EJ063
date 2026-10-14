@@ -14,3 +14,4 @@ Learning Git and GitHub
 Interested in software development
 Goal: Build projects and contribute to open source
 Goal: Contribute to open source
+Add goal: contribute to open source
