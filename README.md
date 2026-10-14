@@ -13,3 +13,4 @@ I am Mahantesh Hounshetty, a B.Tech student in Computer Science and Information 
 Learning Git and GitHub
 Interested in software development
 Goal: Build projects and contribute to open source
+Goal: Contribute to open source
